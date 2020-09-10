@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arief, an AI Engineer who is passionate about books, movies, research and development. 
+My name is Arief, I am an AI engineer who is passionate about books, movies, and R&D. 
 
 To sum up:
 - 🔭 I’m currently working on Artificial Intelligence
